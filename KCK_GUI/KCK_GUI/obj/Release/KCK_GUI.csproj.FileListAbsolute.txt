@@ -1,0 +1,58 @@
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\bin\Release\KCK_GUI.exe.config
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\bin\Release\KCK_GUI.exe
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\bin\Release\KCK_GUI.pdb
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\bin\Release\Newtonsoft.Json.dll
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\bin\Release\Newtonsoft.Json.xml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csprojAssemblyReference.cache
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\Theme\MenuButtonTheme.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\Theme\MenuProgressBarTheme.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\Theme\MusicManagerButtonTheme.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\Theme\MySliderTheme.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\MainWindow.g.cs
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\PlaylistView.g.cs
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\SearchView.g.cs
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\App.g.cs
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI_MarkupCompile.cache
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI_MarkupCompile.lref
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\App.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\MainWindow.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\PlaylistView.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\SearchView.baml
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.g.resources
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.Properties.Resources.resources
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csproj.GenerateResource.cache
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csproj.CoreCompileInputs.cache
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csproj.CopyComplete
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.exe
+C:\Users\pwojc\source\repos\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.pdb
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\bin\Release\KCK_GUI.exe.config
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\bin\Release\KCK_GUI.exe
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\bin\Release\KCK_GUI.pdb
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\bin\Release\Newtonsoft.Json.dll
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\bin\Release\Newtonsoft.Json.xml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csprojAssemblyReference.cache
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\Theme\MenuButtonTheme.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\Theme\MenuProgressBarTheme.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\Theme\MusicManagerButtonTheme.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\Theme\MySliderTheme.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\MainWindow.g.cs
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\PlaylistView.g.cs
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\SearchView.g.cs
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\StartWindow.g.cs
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\App.g.cs
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI_MarkupCompile.cache
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI_MarkupCompile.lref
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\App.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\MainWindow.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\PlaylistView.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\MVVM\View\SearchView.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\StartWindow.baml
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.g.resources
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.Properties.Resources.resources
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csproj.GenerateResource.cache
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csproj.CoreCompileInputs.cache
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.csproj.CopyComplete
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.exe
+D:\Semestr 5 zadania\KCK\Poloczenie\KCK_GUI\KCK_GUI\obj\Release\KCK_GUI.pdb
